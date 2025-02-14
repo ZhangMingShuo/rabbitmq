@@ -1,0 +1,4 @@
+{
+    "omnisharp.sdkIncludePrereleases": true,
+    "dotnet.defaultSolution": "RabbitMQ.sln"
+}
